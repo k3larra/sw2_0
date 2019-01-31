@@ -1,5 +1,5 @@
 # Software 2.0/1.0
-THis is a site comparing programing using a Software 1.0 paradigm and a Software 2.0 paradigm regarding complexity, understandability + having fun coding.
+This is a site comparing programing using a Software 1.0 paradigm and a Software 2.0 paradigm regarding complexity, understandability + having fun coding.
 
 Inspired by a Andrej Karpathy [text](https://medium.com/@karpathy/software-2-0-a64152b37c35) and tutoring sessions with my supervisors I thought of posing a few programming challenges to my colleagues or anyone else that want to solve puzzles and discuss pros and cons.
 
