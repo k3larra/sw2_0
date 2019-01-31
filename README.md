@@ -3,7 +3,7 @@ This is a site comparing programing using a Software 1.0 paradigm and a Software
 
 Inspired by a Andrej Karpathy [text](https://medium.com/@karpathy/software-2-0-a64152b37c35) and tutoring sessions with my supervisors I thought of posing a few programming challenges to my colleagues or anyone else that want to solve puzzles and discuss pros and cons.
 
-The first challenge that I think is a problem that can be solved either using a traditional software 1.0 paradigm using Python, Java c++ etc. or by using Machine learning.
+The first challenge that I think is a problem that can be solved either using a traditional software 1.0 paradigm using Python, Java c++ etc. or a software 2.0 using Machine learning.
 
 ## Challenge 1:
 [This file](data.csv) contains locations, represented by latitude and longitude, and corresponding journeys, consisting of id for origin and destination[1]. There exists a correlation between locations and journeys. Write a program that based on the information in the [first training file](data.csv) that can output the correct journeys given the locations in this second [file](dataTest.csv).
