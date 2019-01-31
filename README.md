@@ -5,8 +5,8 @@ Inspired by a Andrej Karpathy [text](https://medium.com/@karpathy/software-2-0-a
 
 The first challenge that I think is a problem that can be solved either using a traditional software 1.0 paradigm using Python, Java c++ etc. or by using Machine learning.
 
-Challenge 1:
-In this file there are locations represented by latitude and longitude and journeys (consisting of id for origin and destination)*. There exists a correlation between locations and journeys. Write a program that based on the information in the [first training file](data.csv) that can output the correct journeys given the locations in this second test [file](dataTest.csv).
+## Challenge 1:
+In [this file](data.csv) are locations represented by latitude and longitude and journeys (consisting of id for origin and destination)*. There exists a correlation between locations and journeys. Write a program that based on the information in the [first training file](data.csv) that can output the correct journeys given the locations in this second [file](dataTest.csv).
 (Fork this site add your solution and make a pull request.)
 
 * Solution 1: [using fastai library](fastai.ipynb)
