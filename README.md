@@ -13,7 +13,7 @@ The first challenge that I think is a problem that can be solved either using a 
 * Solution 1 (By Lars): [using Machine Learning](fastai.ipynb)
 
 <hr>
-[1] *The first five numbers in a journey is the id for a origin station in [Skåne/Sweden](http://labs.skanetrafiken.se/) and the last five is id for destination.*
+[1] The first five numbers in a journey is the id for a origin station in [Skåne/Sweden](http://labs.skanetrafiken.se/) and the last five is id for destination.
 
 More refs around Software 2.0
 [Carlos E. Perez](https://medium.com/intuitionmachine/is-deep-learning-software-2-0-cc7ad46b138f)
